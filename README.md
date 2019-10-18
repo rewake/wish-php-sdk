@@ -1,5 +1,8 @@
 # Wish SDK for PHP
 
+## NOTE
+This is a copy of the last version of the context logic wish/php-sdk, who killed off the original repo.
+
 ## Important Announcement
 This PHP SDK will no longer be maintained. The repo will be closed by end of September 2019.
 We are sorry for this decision, however this would allow us to focus on on improving API usability and documentation. If you set up any dependency on this repo, we kindly ask you to prepare for the close of it in the coming weeks.
