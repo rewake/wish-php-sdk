@@ -10,6 +10,7 @@ We are sorry for this decision, however this would allow us to focus on on impro
 ## Documentation
 
 http://merchant.wish.com/documentation/api/v2
+https://merchant.wish.com/documentation/api/v3/reference
 
 ## Install Instructions
 
