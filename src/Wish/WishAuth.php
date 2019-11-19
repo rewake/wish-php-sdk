@@ -38,7 +38,7 @@ class WishAuth{
   }
 
   public function getToken($code, $redirect_uri){
-    $type = 'POST';
+    $type = 'GET';
     $path = 'oauth/access_token';
     $params = array(
       'client_id'=>$this->client_id,
@@ -64,7 +64,7 @@ class WishAuth{
   }
 
   public function refreshToken($refresh_token){
-    $type = 'POST';
+    $type = 'GET';
     $path = 'oauth/refresh_token';
     $params = array(
       'client_id'=>$this->client_id,
